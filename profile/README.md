@@ -1,2 +1,2 @@
 # Quicknotes
-[web-client](https://quicknotes-project.github.io)
+[Client](https://quicknotes-project.github.io)
