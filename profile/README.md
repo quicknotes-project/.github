@@ -1,2 +1,3 @@
 # Quicknotes
-[App](https://quicknotes-project.github.io)
+
+#### [App](https://quicknotes-project.github.io)
